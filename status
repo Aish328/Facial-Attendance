@@ -1,0 +1,10 @@
+Steps : 
+1.Webcam        Done(main.py)
+2.Graphics      Done (main.py)
+3.Encoding Generator        Done(encodegenerator.py)
+4.Face Recognition          Done (main.py)
+5.Database setup        Done
+6.Add data to Database      Done
+7.Add Images to Database        Done
+8.Real-time Database update         done
+9.Limit number of attendance per person         done
